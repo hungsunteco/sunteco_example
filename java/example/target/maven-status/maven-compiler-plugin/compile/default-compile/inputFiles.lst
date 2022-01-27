@@ -1,6 +1,2 @@
-/home/hung/project/sunteco/github/sunteco_example/java/example/src/main/java/com/sunteco/example/controller/ConsumerController.java
-/home/hung/project/sunteco/github/sunteco_example/java/example/src/main/java/com/sunteco/example/dto/ApiKey.java
-/home/hung/project/sunteco/github/sunteco_example/java/example/src/main/java/com/sunteco/example/ExampleApplication.java
-/home/hung/project/sunteco/github/sunteco_example/java/example/src/main/java/com/sunteco/example/dto/MessageBodyParameter.java
-/home/hung/project/sunteco/github/sunteco_example/java/example/src/main/java/com/sunteco/example/controller/ProducerController.java
-/home/hung/project/sunteco/github/sunteco_example/java/example/src/main/java/com/sunteco/example/SenderThread.java
+/home/hungnv/Documents/project/github/sunteco_example/java/example/src/main/java/com/sunteco/example/SimpleConsumer.java
+/home/hungnv/Documents/project/github/sunteco_example/java/example/src/main/java/com/sunteco/example/SimpleProducer.java
